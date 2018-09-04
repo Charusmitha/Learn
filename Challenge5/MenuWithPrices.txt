@@ -1,0 +1,5 @@
+Naan	1.11
+Curry	2.22
+Papad	3.33
+Salad	4.44
+Rice	5.55
